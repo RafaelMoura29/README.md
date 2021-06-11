@@ -14,7 +14,7 @@
   <li>My main stack is Asp.Net, Angular and Azure</li>
   <li>Actually i'm studing to improve my skills with TDD, design patterns and Azure cloud</li>
   <li>I like to learn about new technologies and to be constantly evolving with my skills.</li>
-  <li>In my spare time I like to read books about science fiction, fight jiu jitsu and play games</li>
+  <li>In my spare time I like to read science fiction books, fight jiu jitsu and play games</li>
 </ul>
 </div>
 </br>
@@ -54,7 +54,6 @@
 ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -62,13 +61,6 @@
 
 ## 📫 Contact Me
 
-You can find me on [![Linkedin: rafael-moura-62891b181](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-moura-62891b181/)](https://www.linkedin.com/in/rafael-moura-62891b181/)
+You can find me on [![Linkedin: rafael-moura-62891b181](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-moura-62891b181/)](https://www.linkedin.com/in/rafael-moura-62891b181/) or send me an email on rafaelserafim.dev@gmail.com
  
- 
- 
-[![Rafael's github stats](https://github-readme-stats.vercel.app/api?username=RafaelMoura29&count_private=true&hide=contribs)](https://github.com/RafaelMoura29/github-readme-stats)
------
-Credits: [Rafael Moura](https://github.com/RafaelMoura29)
-
-Last Edited on: 04/06/2021
-
+Last Edited on: 11/06/2021
